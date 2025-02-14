@@ -1,0 +1,37 @@
+{
+  "Records": [
+{
+    "messageId": "04fa702f-4cca-48a9-b8eb-2c8e70733050",
+    "receiptHandle": "AQEBiz8R/S3Yr/xFGVzAwV7HcDWznXSXuGCVLNHgDUq95HkjgXgzyNyapN+c0G0fOGpaC6OV1p8MWrQugujX9lstRWauKzmyz3/xIeE8AQ3cCymkWndIAPpuLWo5aERCSMNJ15LhH48Xvh+TtwTeT9koITKb/S4uTfPCGgxUWP3EXGoCzC1csO3Q73sGtjmNs/YtQS2b+Z5QBTnkfTQpbdVzqCgHrNj1wHLxnUEgNH7HLVD+lVtqHMWolyDvlUX3anWsY5LCF3MfMMRAQBR4CXk750zAXnyFSP+UYULQSkrdKdw=",
+    "body": "Amazon-incoming-urls",
+    "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1734612449839",
+        "SequenceNumber": "18890804860868335616",
+        "MessageGroupId": "Amazon",
+        "SenderId": "AIDAZI2LDR274WPSKLVFD",
+        "MessageDeduplicationId": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB",
+        "ApproximateFirstReceiveTimestamp": "1734612449839"
+    },
+    "messageAttributes": {
+        "ItmId": {
+            "stringValue": "B08N5W4NNB",
+            "stringListValues": [],
+            "binaryListValues": [],
+            "dataType": "String"
+        },
+        "CleanedUrl": {
+            "stringValue": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB",
+            "stringListValues": [],
+            "binaryListValues": [],
+            "dataType": "String"
+        }
+    },
+    "md5OfMessageAttributes": "c078a0f0fd71911bc2f58568c1e610b8",
+    "md5OfBody": "aa7d1a1ddfd2e7e7260745d075c85c0b",
+    "eventSource": "aws:sqs",
+    "eventSourceARN": "my sqs",
+    "awsRegion": "ap-south-1"
+}
+  ]
+}
